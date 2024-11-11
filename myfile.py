@@ -1,2 +1,3 @@
 def myfunc():
-    pass
+    # function
+    pass  # pass
